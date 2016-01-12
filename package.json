@@ -1,0 +1,33 @@
+{
+  "name": "javascript-component-challenge",
+  "version": "1.0.0",
+  "description": "React flavor of component challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KQED/javascript-component-challenge.git"
+  },
+  "author": "Sarah Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KQED/javascript-component-challenge/issues"
+  },
+  "homepage": "https://github.com/KQED/javascript-component-challenge#readme",
+  "dependencies": {
+    "flux": "^2.1.1",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "redux": "^3.0.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "webpack": "^1.12.11"
+  }
+}
