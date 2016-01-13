@@ -1,4 +1,4 @@
-# Javascript Challenge
+# JavaScript Challenge
 
 ## About
 Angular coding challenge for JavaScript Engineer Candidates
