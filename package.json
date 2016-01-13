@@ -18,7 +18,6 @@
   "homepage": "https://github.com/KQED/javascript-component-challenge#readme",
   "dependencies": {
     "angular": "^1.4.8",
-    "angular-ui-router": "^0.2.15",
-    "express": "^4.13.3"
+    "angular-ui-router": "^0.2.15"
   }
 }
