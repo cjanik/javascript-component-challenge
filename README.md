@@ -6,7 +6,7 @@ React coding challenge for JavaScript Engineer Candidates
 ## Requirements
 - Node.js
 - npm
-- webpack
+- webpack-dev-server
 
 ## Getting Started
 - Fork repository and clone down the repo locally
