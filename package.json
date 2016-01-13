@@ -1,0 +1,24 @@
+{
+  "name": "javascript-component-challenge",
+  "version": "1.0.0",
+  "description": "Angular 1.x coding challenge for JavaScript Engineer candidates",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KQED/javascript-component-challenge.git"
+  },
+  "author": "Sarah Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KQED/javascript-component-challenge/issues"
+  },
+  "homepage": "https://github.com/KQED/javascript-component-challenge#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-ui-router": "^0.2.15",
+    "express": "^4.13.3"
+  }
+}
