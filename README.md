@@ -1,4 +1,4 @@
-# javascript-component-challenge
+# JavaScript Challenge
 
 ## About
 React coding challenge for JavaScript Engineer Candidates
