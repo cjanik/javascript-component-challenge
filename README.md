@@ -1,4 +1,4 @@
-# JavaScript Component Challenge
+# JavaScript Challenge
 
 ## Getting Started
 - Fork repo and clone down repo
