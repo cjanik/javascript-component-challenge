@@ -1,0 +1,24 @@
+{
+  "name": "javascript-component-challenge",
+  "version": "1.0.0",
+  "description": "Node flavor coding challenge for JavaScript Engineer",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KQED/javascript-component-challenge.git"
+  },
+  "author": "Sarah Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KQED/javascript-component-challenge/issues"
+  },
+  "homepage": "https://github.com/KQED/javascript-component-challenge#readme"
+}
