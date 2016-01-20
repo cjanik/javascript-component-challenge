@@ -6,11 +6,12 @@ Node coding challenege for JavaScript Engineer Candidates
 ## Requirements
 - Node.js
 - npm
+- nodemon (optional)
 
 ## Getting Started
-- Fork repository and clone down the repo locally
+- Clone down the repo locally
 - Navigate to the repository and run ``npm install``
-- Run ``node server`` in the terminal to start serving files and navigate to ``localhost:8080``
+- Run ``node server`` or ``nodemon server`` in the terminal to start serving files and navigate to ``localhost:8080``
 
 ## Instructions
 - You are tasked with creating a simple RESTful API with one endpoint ``/wpnews/``
