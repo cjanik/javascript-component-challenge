@@ -17,10 +17,8 @@
   },
   "homepage": "https://github.com/KQED/javascript-component-challenge#readme",
   "dependencies": {
-    "flux": "^2.1.1",
     "react": "^0.14.6",
-    "react-dom": "^0.14.6",
-    "redux": "^3.0.5"
+    "react-dom": "^0.14.6"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
