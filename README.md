@@ -16,6 +16,6 @@ React coding challenge for JavaScript Engineer Candidates
 
 ## Instructions
 - You are tasked with creating a reusable React component that takes in post data from our WordPress API and displays a summary of it
-- The endpoint you will be using is here: ``http://ww2.staging.wpengine.com/perspectives/wp-json/wp/v2/posts``
+- The endpoint you will be using is here: ``http://ww2.kqed.org/perspectives/wp-json/wp/v2/posts``
 - This endpoint gives you 10 WordPress post entries and you are expected to display all 10 entries showing the title, date, author name and excerpt
 - Styling is optional but encouraged
